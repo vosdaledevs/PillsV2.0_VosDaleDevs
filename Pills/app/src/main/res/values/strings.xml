@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pills</string>
+    <string name="title_home">Novedades</string>
+    <string name="title_search">Buscar</string>
+    <string name="title_settings">Ajustes</string>
+    <string name="title_record">Historial</string>
+    <string name="b_squeda">Búsqueda</string>
+</resources>
