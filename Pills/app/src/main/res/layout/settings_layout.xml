@@ -11,7 +11,7 @@
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:background="@mipmap/ic_1person"
-            />
+            android:contentDescription="@string/todo" />
 
 
     </LinearLayout>
